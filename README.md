@@ -6,6 +6,8 @@
 
 **AddressGrouping** is an advanced grouping and workflow analysis plugin for IDA Pro. It supports multi-level grouping, address management, comments, node highlighting, and more, greatly improving efficiency for reverse engineering and code organization.
 
+<img src="./AddressGrouping.png" style="zoom:50%">
+
 ## Main Features
 
 - Multi-level tree structure: any node can have child nodes (group, address, or custom node)
